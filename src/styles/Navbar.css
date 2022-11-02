@@ -1,0 +1,18 @@
+body{
+    background-color:#e6ddd6;
+}
+
+.navbar{
+    background-image: url(../imgs/nav.png);
+    padding: 50px;
+}  
+
+.navbar-nav .nav-link.active{
+    font-size: x-large;
+    color: #e6ddd6;
+}
+
+.navbar a{
+    color: #e6ddd6;
+    font-family: 'DM Serif Display', serif;
+}
