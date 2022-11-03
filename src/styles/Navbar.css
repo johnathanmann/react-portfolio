@@ -12,7 +12,7 @@ body{
     color: #e6ddd6;
 }
 
-.navbar a{
+.navbar a, .navbar h1{
     color: #e6ddd6;
-    font-family: 'DM Serif Display', serif;
+    font-weight: bold;
 }
