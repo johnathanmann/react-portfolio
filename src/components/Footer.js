@@ -14,13 +14,13 @@ const styles= {
 
 function Footer({ currentPage, handlePageChange }) {
   return (
-    <footer class="page-footer" style={styles.footerStyle} >
-  <div class="container">
-    <div class="row text-center">
-      <div class="col-md-12 py-5">
-        <div class="mb-5 flex-center">
-          <a href="https://github.com/johnathanmann" target="_blank" style={styles.linkStyle}><i class="fab fa-github-square fa-3x p-2"> </i></a>
-          <a href="mailto:johnathan.mnn@gmail.com" target="_blank" style={styles.linkStyle}><i class="fas fa-envelope fa-3x p-2"></i></a>
+    <footer className="page-footer" style={styles.footerStyle} >
+  <div className="container">
+    <div className="row text-center">
+      <div className="col-md-12 py-5">
+        <div className="mb-5 flex-center">
+          <a href="https://github.com/johnathanmann" target="_blank" style={styles.linkStyle}><i className="fab fa-github-square fa-3x p-2"> </i></a>
+          <a href="mailto:johnathan.mnn@gmail.com" target="_blank" style={styles.linkStyle}><i className="fas fa-envelope fa-3x p-2"></i></a>
         </div>
       </div>
     </div>

@@ -16,3 +16,11 @@ body{
     color: #e6ddd6;
     font-weight: bold;
 }
+
+button{
+    color: #e6ddd6;
+}
+
+li{
+    display: inline-flex;
+}
