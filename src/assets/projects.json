@@ -1,7 +1,26 @@
 [
     {
         "name": "Seared",
-        "link": "https://seared-project-2.herokuapp.com/",
-        "img": "https://johnathanmann.github.io/react-portfolio/src/assets/seared.png"
+        "link": "https://seared-project-2.herokuapp.com/"
+    },
+    {
+        "name": "Weather Dashboard",
+        "link": "https://johnathanmann.github.io/Weather-Dashboard/"
+    },
+    {
+        "name":"Workout Finder",
+        "link": "https://johnathanmann.github.io/Fitness-Finder/"
+    },
+    {
+        "name": "Daily Planner",
+        "link": "https://johnathanmann.github.io/Daily-Planner/"
+    },
+    {
+        "name": "Password Generator",
+        "link": "https://johnathanmann.github.io/Password-Gen/"
+    },
+    {
+        "name": "JavaScript Quiz",
+        "link": "https://johnathanmann.github.io/JavaScript-Quiz/"
     }
 ]

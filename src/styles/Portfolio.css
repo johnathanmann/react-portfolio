@@ -1,14 +1,9 @@
-#header {
+.header {
     padding: 25px 0px 5px 0px;
     color: #d5311f;
     border-bottom: 5px solid #d5311f;
     margin: 0px 20px 25px 20px;
   }
-
-img{
-    color: #d5311f;
-    border-radius: 10px;
-}
 
 h3{
     border-top: 5px solid #d5311f;
@@ -16,13 +11,20 @@ h3{
 }
 
 .card{
-  background-color: #e6ddd6;
+  background-color: transparent;
   border: none;
   padding: 20px;
   display: inline-flex;
   width: 25rem
 }
 
-a:hover{
+img{
+  color: #d5311f;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px #6d6b68;
+}
+
+
+a, a:hover{
   text-decoration: none;
 }
