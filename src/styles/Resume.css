@@ -25,3 +25,7 @@ h2{
 #list{
     padding: 10px 10px 10px 50px;
 }
+
+.display{
+    display: block;
+}

@@ -9,19 +9,19 @@ export default function Resume() {
       <h2>Front-End Technologies</h2>
       <div id='list'>
         <ul>
-          <li>HMTL</li>
-          <li>CSS</li>
-          <li>Javascript</li>
-          <li>Bootstrap 4/5</li>
+          <li className='display'>HMTL</li>
+          <li className='display'>CSS</li>
+          <li className='display'>Javascript</li>
+          <li className='display'>Bootstrap 4/5</li>
         </ul>
       </div>
       <h2>Back-End Technologies</h2>
       <div id='list'>
         <ul>
-          <li>Node</li>
-          <li>API's</li>
-          <li>MYSQL</li>
-          <li>MongoDB</li>
+          <li className='display'>Node</li>
+          <li className='display'>API's</li>
+          <li className='display'>MYSQL</li>
+          <li className='display'>MongoDB</li>
         </ul>
       </div>
     </div>
