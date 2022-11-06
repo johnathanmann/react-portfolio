@@ -1,6 +1,7 @@
 import React from 'react';
 import '../../styles/Portfolio.css';
 import PortfolioCard from '../PortfolioCard';
+import Header from '../Header';
 import projects from '../../assets/projects.json'
 import seared from '../../assets/seared.png'
 import weather from '../../assets/weather.png'
@@ -12,7 +13,7 @@ import quiz from '../../assets/quiz.png'
 export default function Portfolio() {
   return(
     <div className="containerr">
-    <h1 className='header text-left'>Portfolio</h1>
+    <Header title={"Portfolio"}/>
     <div className='text-center'>
     <PortfolioCard
       name={projects[0].name}

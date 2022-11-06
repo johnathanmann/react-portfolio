@@ -1,0 +1,27 @@
+ul {
+    list-style: none;
+    font-weight: large;
+}
+
+li{
+    font-size: large;
+}
+  
+ul li::before {
+    content: "-";
+    color: #d5311f;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+h2{
+    padding: 10px;
+    color: #d5311f;
+    margin-left: 20px;
+}
+
+#list{
+    padding: 10px 10px 10px 50px;
+}
