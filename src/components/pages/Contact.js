@@ -16,7 +16,7 @@ export default function Contact() {
     <input type="email" className="form-control"  placeholder="name@example.com"/>
   </div>
       <div className="form-group">
-        <label for="exampleFormControlTextarea1">Example textarea</label>
+        <label for="exampleFormControlTextarea1">Message:</label>
         <textarea className="form-control"  rows="3"></textarea>
       </div>
     </form>
