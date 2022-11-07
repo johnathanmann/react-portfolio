@@ -19,6 +19,7 @@ export default function Contact() {
         <label for="exampleFormControlTextarea1">Message:</label>
         <textarea className="form-control"  rows="3"></textarea>
       </div>
+      <button type="submit" class="btn btn-danger ms-4">Submit</button>
     </form>
     </div>
   );
