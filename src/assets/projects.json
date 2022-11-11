@@ -1,26 +1,32 @@
 [
     {
         "name": "Seared",
-        "link": "https://seared-project-2.herokuapp.com/"
+        "link": "https://seared-project-2.herokuapp.com/",
+        "repo": "https://github.com/johnathanmann/Seared"
     },
     {
         "name": "Weather Dashboard",
-        "link": "https://johnathanmann.github.io/Weather-Dashboard/"
+        "link": "https://johnathanmann.github.io/Weather-Dashboard/",
+        "repo": "https://github.com/johnathanmann/Weather-Dashboard"
     },
     {
         "name":"Workout Finder",
-        "link": "https://johnathanmann.github.io/Fitness-Finder/"
+        "link": "https://johnathanmann.github.io/Fitness-Finder/",
+        "repo": "https://github.com/johnathanmann/Fitness-Finder"
     },
     {
         "name": "Daily Planner",
-        "link": "https://johnathanmann.github.io/Daily-Planner/"
+        "link": "https://johnathanmann.github.io/Daily-Planner/",
+        "repo": "https://github.com/johnathanmann/Daily-Planner"
     },
     {
         "name": "Password Generator",
-        "link": "https://johnathanmann.github.io/Password-Gen/"
+        "link": "https://johnathanmann.github.io/Password-Gen/",
+        "repo": "https://github.com/johnathanmann/Password-Gen"
     },
     {
         "name": "JavaScript Quiz",
-        "link": "https://johnathanmann.github.io/JavaScript-Quiz/"
+        "link": "https://johnathanmann.github.io/JavaScript-Quiz/",
+        "repo": "https://github.com/johnathanmann/JavaScript-Quiz"
     }
 ]
