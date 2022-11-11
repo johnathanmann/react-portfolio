@@ -19,31 +19,37 @@ export default function Portfolio() {
       name={projects[0].name}
       img={seared}
       link={projects[0].link}
+      repo={projects[0].repo}
     />
     <PortfolioCard
       name={projects[1].name}
       img={weather}
       link={projects[1].link}
+      repo={projects[1].repo}
     />
     <PortfolioCard
       name={projects[2].name}
       img={workout}
       link={projects[2].link}
+      repo={projects[2].repo}
     />
     <PortfolioCard
       name={projects[3].name}
       img={planner}
       link={projects[3].link}
+      repo={projects[3].repo}
     />
     <PortfolioCard
       name={projects[4].name}
       img={password}
       link={projects[4].link}
+      repo={projects[4].repo}
     />
     <PortfolioCard
       name={projects[5].name}
       img={quiz}
       link={projects[5].link}
+      repo={projects[5].repo}
     /></div>
     </div>
   )
